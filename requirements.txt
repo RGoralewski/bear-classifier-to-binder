@@ -1,5 +1,6 @@
 fastai>=2.0.0
-fastbook
+pillow>=7.1.0
+packaging
 graphviz
 ipywidgets
 matplotlib
